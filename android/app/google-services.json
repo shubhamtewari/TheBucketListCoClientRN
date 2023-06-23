@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213755659607",
+    "project_id": "thebucketlistco-5af3f",
+    "storage_bucket": "thebucketlistco-5af3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213755659607:android:7797a1f49841cd3bcd2a12",
+        "android_client_info": {
+          "package_name": "com.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213755659607-gjb3lmpe81jvt5ork3n0dp92v1cn9ouq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowA6H04abNUxIVZZfLfpFmXnfPtKcCeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213755659607-gjb3lmpe81jvt5ork3n0dp92v1cn9ouq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
